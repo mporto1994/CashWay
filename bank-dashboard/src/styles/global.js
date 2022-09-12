@@ -13,6 +13,14 @@ export default createGlobalStyle`
 
     }
     :root {
+        --blue1:#1166d2;
+        --blue2:#3388f2;
+
+        --lightBlue1:#cfe8fc;
+        --lightBlue2:#e3feff;
+
+
+
         --purple:#403CAA;
         --cream:#f3ffbd;
         --green: #70c1b3;
